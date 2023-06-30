@@ -1,3 +1,3 @@
+(defparameter *big* 100) ;upper limit of the binary search
+(defparameter *small* 1) ;lower one
 
-(defparameter *small* 1)
-(defparameter *big* 100)
