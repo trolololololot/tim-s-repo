@@ -1,0 +1,4 @@
+(defparameter *big* 100 )
+(defparameter *small* 1  )
+(defun start-over ()
+(guess-my-number)
